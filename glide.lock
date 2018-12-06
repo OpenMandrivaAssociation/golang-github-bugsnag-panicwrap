@@ -1,0 +1,5 @@
+hash: e3c3fc42b9996c25ec831d1955b80dbd9ffb4a2ae220bd176597d2a164e18cea
+imports:
+- name: github.com/bugsnag/osext
+  version: 0dd3f918b21bec95ace9dc86c7e70266cfc5c702
+updated: '2018-06-08T20:52:06.597545+00:00'
